@@ -5,6 +5,6 @@ From https://github.com/panaverse/typescript-node-projects
 
 NPX Command :-
 ```sh
-npx mbz-calculator
+npx todo-app-mbz
 ```
 
